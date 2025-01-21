@@ -1,0 +1,9 @@
+[submodule "projects/angular-hr"]
+	path = projects/angular-hr
+	url = https://github.com/angular-submodule-repo/angular-hr
+[submodule "projects/angular-inv"]
+	path = projects/angular-inv
+	url = https://github.com/angular-submodule-repo/angular-inv
+[submodule "projects/shared-ui"]
+	path = projects/shared-ui
+	url = https://github.com/angular-submodule-repo/shared-ui
